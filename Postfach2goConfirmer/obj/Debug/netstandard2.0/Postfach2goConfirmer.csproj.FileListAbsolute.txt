@@ -1,0 +1,9 @@
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\bin\Debug\netstandard2.0\Postfach2goConfirmer.deps.json
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\bin\Debug\netstandard2.0\Postfach2goConfirmer.dll
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\bin\Debug\netstandard2.0\Postfach2goConfirmer.pdb
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.csprojAssemblyReference.cache
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.csproj.CoreCompileInputs.cache
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.AssemblyInfoInputs.cache
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.AssemblyInfo.cs
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.dll
+C:\OtherWork\Postfach2goConfirmer\Postfach2goConfirmer\obj\Debug\netstandard2.0\Postfach2goConfirmer.pdb

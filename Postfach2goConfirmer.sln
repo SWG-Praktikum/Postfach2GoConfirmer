@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Postfach2goConfirmer", "Postfach2goConfirmer\Postfach2goConfirmer.csproj", "{F0D34525-8C48-4848-9B9D-F4DADE67A713}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Postfach2GoConfirmForm", "Postfach2GoConfirmForm\Postfach2GoConfirmForm.csproj", "{BE67BE3C-5FCB-40D5-A302-03598DD303F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0D34525-8C48-4848-9B9D-F4DADE67A713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0D34525-8C48-4848-9B9D-F4DADE67A713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0D34525-8C48-4848-9B9D-F4DADE67A713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0D34525-8C48-4848-9B9D-F4DADE67A713}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE67BE3C-5FCB-40D5-A302-03598DD303F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE67BE3C-5FCB-40D5-A302-03598DD303F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE67BE3C-5FCB-40D5-A302-03598DD303F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE67BE3C-5FCB-40D5-A302-03598DD303F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CA4F09C-369B-47F7-8D03-59C84D2E7B55}
+	EndGlobalSection
+EndGlobal
